@@ -4,7 +4,7 @@ Aquí registras tu avance y, al final, explicas con tus palabras lo que hiciste.
 
 ## Registro
 
-- [Nombre del estudiante] - Línea de ejemplo de la plantilla - [Fecha]
+- [juan valencia] - idk what im doing here, im here tho - [18/08/2026]
 
 ## Lo que aprendí
 
