@@ -4,7 +4,7 @@ Aquí registras tu avance y, al final, explicas con tus palabras lo que hiciste.
 
 ## Registro
 
-- [mision 2] - alguien ve esto? - [18/08/2026]
+- [asi dejara?] - alguien ve esto? - [18/08/2026]
 
 ## Lo que aprendí
 
