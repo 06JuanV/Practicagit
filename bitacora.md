@@ -5,6 +5,7 @@ Aquí registras tu avance y, al final, explicas con tus palabras lo que hiciste.
 ## Registro
 
 - [erre de nuevo 2.1] - daria pena que lo viera alguien - [18/08/2026]
+- alo ma
 
 ## Lo que aprendí
 
